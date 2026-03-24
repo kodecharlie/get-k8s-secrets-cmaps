@@ -1,0 +1,6 @@
+minerva:
+    secrets:
+        awsAccessKeyId: XXX
+        awsSecretAccessKey: YYY
+        gitlab:
+            registryData: ZZZ
