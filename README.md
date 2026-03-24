@@ -34,7 +34,7 @@ After building, run the shaded jar (includes runtime dependencies such as `antlr
 
 ```bash
 java -jar target/helm-k8s-keyvalue-parser-1.0.0-SNAPSHOT-all.jar \
-  ../../charts/minervacq/common/templates/secrets.yaml
+  ./example/secrets.yaml
 ```
 
 Or resolve values from a `values.yaml` source:
